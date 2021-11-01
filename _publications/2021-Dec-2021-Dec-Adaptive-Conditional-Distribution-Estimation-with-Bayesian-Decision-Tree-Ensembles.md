@@ -12,6 +12,6 @@ citation: 'Li, Yinpu, Antonio R. Linero, and Jared S. Murray. "Adaptive Conditio
 This paper proposed extension to Bayesian Additive Regression Tree (BART) for conditional density regression in the presence of potentially high-dimensional predictors.
 
 
-[Download paper here](https://doi.org/10.1214/21-BA1285)
+[Download paper here](https://arxiv.org/abs/2005.02490)
 
 Recommended citation: Li, Yinpu, Antonio R. Linero, and Jared S. Murray. "Adaptive Conditional Distribution Estimation with Bayesian Decision Tree Ensembles." arXiv preprint arXiv:2005.02490 (2020).
