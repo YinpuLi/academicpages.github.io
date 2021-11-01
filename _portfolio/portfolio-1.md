@@ -1,6 +1,6 @@
 ---
 title: "Horse No. 1"
-excerpt: "Running horse. 1<br/><img src='/images/Horse1.png'>"
+excerpt: "Running horse. 1<br/><img src='/images/Horse1.JPG'>"
 collection: portfolio
 ---
 
