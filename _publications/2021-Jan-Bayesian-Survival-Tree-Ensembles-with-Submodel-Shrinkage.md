@@ -3,8 +3,9 @@ title: "Bayesian Survival Tree Ensembles with Submodel Shrinkage"
 collection: publications
 permalink: /publication/2021-Jan-Bayesian-Survival-Tree-Ensembles-with-Submodel-Shrinkage
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021-Jan
+venue: 'Bayesian Analysis'
+publisher: International Society for Bayesian Analysis
 paperurl: 'https://doi.org/10.1214/21-BA1285'
 citation: 'Linero, Antonio R., Piyali Basak, Yinpu Li, and Debajyoti Sinha. "Bayesian Survival Tree Ensembles with Submodel Shrinkage." Bayesian Analysis 1, no. 1 (2021): 1-24.'
 ---
