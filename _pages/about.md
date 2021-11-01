@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Yinpu Li; welcome to my website! I am currently a PhD candidate in the Department of Statistics at Florida State University. I received my M.S. in Statistics from George Washington University and B.S. from East China Normal University.
 
-Reserach
+Research
 ======
 My research interest mainly focused on developing flexible Machine Learning methods under the Bayesian framework. 
 
